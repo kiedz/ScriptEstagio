@@ -1,6 +1,8 @@
 # ScriptEstagio
 DSL para automação de tarefas de estágio
 
+Equipe: Ronaldo Lucas de Souza Silva
+
 Estagiários frequentemente realizam tarefas repetitivas e processos padronizados,
 como geração de relatórios, organização de tarefas e registro de horas trabalhadas.
 Essas atividades consomem tempo que poderia ser dedicado a tarefas mais produtivas.
